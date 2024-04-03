@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.price {
+  text-align: center;
+}
+
+.info {
+  margin-bottom: 3rem;
+  border-bottom: 2px black solid;
+}
